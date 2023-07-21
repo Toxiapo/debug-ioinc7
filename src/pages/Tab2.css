@@ -1,0 +1,21 @@
+.goback {
+  display: block;
+  font-size: 2rem;
+}
+
+img {
+  max-width: 250px;
+  max-height: 250px;
+  object-fit: contain;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+[role="alert"] {
+  color: red;
+  font-size: 2rem;
+}
